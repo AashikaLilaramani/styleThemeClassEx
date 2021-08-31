@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Default Android colors -->
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+
+    <!-- Color codes for pink mode -->
+    <color name="colorPrimary2">#DF5886</color>
+    <color name="colorPrimaryDark2">#702B43</color>
+    <color name="colorAccent2">#EEAEC4</color>
+    <color name="colorGrey">#666B6B</color>
+    <color name="colorTint">#77EEAEC4</color>
+
+    <!-- Aashika's Colors -->
+    <color name="beige">#E1C699</color>
+    <color name="darkerbeige">#BFAA8C</color>
+    <color name="lighterbeige">#D1C088</color>
+    <color name="black">#000000</color>
+
+
+</resources>
